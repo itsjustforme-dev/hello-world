@@ -2,9 +2,11 @@
 <h2>Jenkins will check every minute if there is a change, if yes -
 it starts to deploy.</h2>
 
-<h7>No its deployed to a docker-container via ansible and automated with jenkins job, <br>if there is a code change.</h7>
+<h7>Now its deployed to a docker-container via ansible and automated with jenkins job, <br>if there is a code change.</h7>
 
 <h1>Updated 00:29</h1>
 <h1>Updated 00:31</h1>
 
 Großartig. TheseThings.IO ist bereichert und wird jetzt ernst.
+
+We created a Tomcat Docker Container with deployed webapp using ansible.
